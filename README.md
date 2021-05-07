@@ -1,1 +1,1 @@
-# simple-demo
+# simple Example repository
